@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 100
+    },
+    "auditLog": "/Users/wall/Documents/workspace/ymojs/packages/cli-service/log/.bcdc4f8b8ece5303287ac6f397b7410de2e5b228-audit.json",
+    "files": [
+        {
+            "date": 1618758634477,
+            "name": "/Users/wall/Documents/workspace/ymojs/packages/cli-service/log/2021-04-18.fatal.log",
+            "hash": "5adb58fe3db146221d53a84145eeb096"
+        }
+    ]
+}
